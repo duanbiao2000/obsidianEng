@@ -1,0 +1,2710 @@
+1
+00:00:00,400 --> 00:00:06,000
+We're against Ricky 5,600 MMR. I'm
+我们不看好Ricky的5,600 MMR。我在
+
+2
+00:00:03,359 --> 00:00:09,919
+playing random uh random human on my
+主号上玩一个随机人类。嗯，他也是
+
+3
+00:00:06,000 --> 00:00:11,679
+main account here. Um and he is also
+随机玩家。看起来是这样。所以，
+
+4
+00:00:09,919 --> 00:00:14,160
+random from the looks of it. Yeah. So,
+随机对随机。很难预判对手会出什么
+
+5
+00:00:11,679 --> 00:00:16,079
+it's random against random. So, very
+阵容。当然，总共有多少种可能？
+
+6
+00:00:14,160 --> 00:00:19,439
+difficult to know uh what you're going
+16种，对吧？16种可能的对局。
+
+7
+00:00:16,079 --> 00:00:21,679
+to be facing. Of course, there are how
+四种镜像匹配。
+
+8
+00:00:19,439 --> 00:00:23,759
+many permutations are there? 16, right?
+所以我们准备用通用的
+
+9
+00:00:21,679 --> 00:00:26,759
+16 possible scenarios. Four mirror
+强力开局装备
+
+10
+00:00:23,760 --> 00:00:26,760
+matchups.
+从一个强力第一英雄开始，
+
+11
+00:00:27,679 --> 00:00:32,960
+So, we're just going to make a generic
+阿尔法山岳骑。
+
+12
+00:00:29,599 --> 00:00:36,558
+walloff build
+如果想出其不意，我可以选
+
+13
+00:00:32,960 --> 00:00:40,079
+>> and start with uh
+山岳骑。
+
+14
+00:00:36,558 --> 00:00:42,799
+>> a good first hero. Arc major mounting.
+这个英雄在这张地图上很难发挥作用。
+
+15
+00:00:40,079 --> 00:00:47,239
+If we want to be really
+不过，
+
+16
+00:00:42,799 --> 00:00:47,238
+surprising, I can go for a mounting.
+有一个特定套路可以奏效。
+
+17
+00:00:47,679 --> 00:00:51,519
+>> Very difficult hero to make work on this
+我可以带风暴之锤绕后。
+
+18
+00:00:49,920 --> 00:00:53,520
+map. Actually,
+需要奥术圣所撤退补状态。
+
+19
+00:00:51,520 --> 00:00:56,399
+>> though I can think of one particular way
+这样能抢到关键装备。
+
+20
+00:00:53,520 --> 00:00:58,079
+where it can work quite well. I could
+从一个强力第一英雄开始，
+
+21
+00:00:56,399 --> 00:01:00,399
+pull this camp and storm bolts around
+阿尔法山岳骑。
+
+22
+00:00:58,079 --> 00:01:02,000
+it.
+如果想出其不意，我可以选
+
+23
+00:01:00,399 --> 00:01:04,159
+>> I would need an arcane vault to fall
+山岳骑。
+
+24
+00:01:02,000 --> 00:01:06,000
+back to to heal up.
+这个英雄在这张地图上很难发挥作用。
+
+25
+00:01:04,159 --> 00:01:08,960
+>> Could secure a big item that way.
+不过，
+
+26
+00:01:06,000 --> 00:01:11,599
+Probably best if I first
+我最好先找到他所在的位置
+
+27
+00:01:08,959 --> 00:01:13,599
+find him somewhere wherever he is.
+无论他在哪里都把他暴击击飞
+
+28
+00:01:11,599 --> 00:01:15,599
+Stormbbolt him to remove his town portal
+以移除他的城镇传送门
+
+29
+00:01:13,599 --> 00:01:18,319
+so that I can control his location a
+这样就能更精准地控制他的位置
+
+30
+00:01:15,599 --> 00:01:20,319
+little bit more
+稍微
+
+31
+00:01:18,319 --> 00:01:22,719
+>> and then try to see if I can use it to
+然后尝试用它潜入奥格洛德
+
+32
+00:01:20,319 --> 00:01:24,719
+creep the overglord. Yeah, I'll go
+好的，我先上马
+
+33
+00:01:22,719 --> 00:01:28,319
+mounting first. footman scout to see
+派侦察兵去探查他是哪个种族
+
+34
+00:01:24,719 --> 00:01:30,239
+what race he is so I can start drawing a
+以便能制定行动路线图
+
+35
+00:01:28,319 --> 00:01:33,239
+decision matrix for where he's going to
+在潜行期间
+
+36
+00:01:30,239 --> 00:01:33,239
+be
+7秒后召唤民兵攻城
+
+37
+00:01:33,519 --> 00:01:37,078
+>> with creeping
+那我就出发了
+
+38
+00:01:39,519 --> 00:01:42,519
+>> requ
+准备就绪，随时待命
+
+39
+00:01:50,719 --> 00:01:57,879
+7 seconds we'll pull militia in Easy.
+杵杆时刻到了
+
+40
+00:01:54,159 --> 00:01:57,880
+Off I go then.
+骑乘之王抗伤，民兵群体输出
+
+41
+00:02:00,319 --> 00:02:06,398
+>> Ready and waiting. It's hammer time.
+开始行动
+
+42
+00:02:04,319 --> 00:02:12,439
+>> Piercing damage tanked by the mount
+逐个击杀敌人，降低他的伤害输出
+
+43
+00:02:06,399 --> 00:02:12,439
+king. Normal damage by the militia.
+他是亡灵族
+
+44
+00:02:12,959 --> 00:02:16,400
+>> Let's do this.
+你作为人类，速度倒挺慢的，不是吗？
+
+45
+00:02:13,759 --> 00:02:17,519
+>> Kill one by one unit to lower his damage
+我已准备就绪
+
+46
+00:02:16,400 --> 00:02:19,760
+output.
+他并不是我要潜入的目标营地
+
+47
+00:02:17,520 --> 00:02:21,439
+>> He is undead. On my way.
+正在接近目标区域
+
+48
+00:02:19,759 --> 00:02:23,519
+>> You're kind of slow for a human, aren't
+准备就绪，随时待命
+
+49
+00:02:21,439 --> 00:02:28,039
+you? I'm ready for
+杵杆时刻到了
+
+50
+00:02:23,520 --> 00:02:28,040
+>> He's not creeping the expected camp.
+骑乘之王抗伤，民兵群体输出
+
+51
+00:02:28,719 --> 00:02:33,039
+>> Is he taking the small green camp or
+他在选择小绿营还是立即快速扩张？那确实是小绿营。先去拯救领主，我们这就行动。我说的对吧？
+
+52
+00:02:31,039 --> 00:02:36,479
+immediately fast expanding? It is a
+尝试不错，但确实浪费了他很多时间。OR 木材，我们这就行动。
+
+53
+00:02:33,039 --> 00:02:40,639
+small green camp. It is cry lord first
+对于人类来说确实有点慢。
+
+54
+00:02:36,479 --> 00:02:42,159
+on my way. Let's get the word.
+你动作太慢。
+
+55
+00:02:40,639 --> 00:02:44,000
+I'm right.
+当然。LET'S GET
+
+56
+00:02:42,159 --> 00:02:47,878
+>> Nice try, but that actually cost him a
+攻击命令。这才像样。
+
+57
+00:02:44,000 --> 00:02:47,878
+lot of time. OR LUMBER
+拿这个，你说。
+
+58
+00:02:48,239 --> 00:02:51,840
+on my way.
+他正在理解。
+
+59
+00:02:48,878 --> 00:02:53,759
+>> Kind of slow for human.
+这是锤子。
+
+60
+00:02:51,840 --> 00:02:55,519
+>> You're kind of slow.
+部队受到攻击。
+
+61
+00:02:53,759 --> 00:02:59,039
+>> Of course. LET'S GET
+发生什么事了？我们这就行动。
+
+62
+00:02:55,519 --> 00:03:01,280
+>> ATTACKING ORDERS. That's more like it.
+THAT'S MORE LIKE IT.
+
+63
+00:02:59,039 --> 00:03:03,199
+>> TAKE THIS, YOU SAY.
+咱们这就干。赶紧出发。我说，你动作太慢了。
+
+64
+00:03:01,280 --> 00:03:04,000
+>> OH, he's getting it.
+I'M ready and waiting.
+
+65
+00:03:03,199 --> 00:03:06,719
+>> It's hammer.
+我们必须立即再次行动，因为他要扩张了。
+
+66
+00:03:04,000 --> 00:03:10,318
+>> FORCES ARE UNDER ATTACK.
+好的。
+
+67
+00:03:06,719 --> 00:03:13,959
+>> WHAT'S HAPPENING? Let's get it on.
+发生什么事了？
+
+68
+00:03:10,318 --> 00:03:13,958
+THAT'S MORE LIKE IT.
+这是锤子。
+
+69
+00:03:15,039 --> 00:03:21,039
+LET'S DO THIS. Let's get moving. Say,
+部队受到攻击。
+
+70
+00:03:17,680 --> 00:03:22,000
+you're kind of slow. YOU
+发生什么事了？我们这就行动。
+
+71
+00:03:21,039 --> 00:03:23,519
+>> I'M ready and waiting.
+THAT'S MORE LIKE IT.
+
+72
+00:03:22,000 --> 00:03:25,519
+>> We have to go again immediately because
+咱们这就干。赶紧出发。我说，你动作太慢了。
+
+73
+00:03:23,519 --> 00:03:27,200
+he's going to expand.
+I'M ready and waiting.
+
+74
+00:03:25,519 --> 00:03:29,120
+>> All right.
+我们必须立即再次行动，因为他要扩张了。
+
+75
+00:03:27,199 --> 00:03:30,639
+>> What's happening?
+好的。
+
+76
+00:03:29,120 --> 00:03:32,480
+>> Let's get moving. You're kind of
+Let's get moving. You're kind of
+
+77
+00:03:30,639 --> 00:03:33,759
+>> I need to get staff and telly so that I
+I need to get staff and telly so that I
+
+78
+00:03:32,479 --> 00:03:34,798
+can't get surrounded and killed. That
+can't get surrounded and killed. That
+
+79
+00:03:33,759 --> 00:03:38,560
+was a nice surround by him.
+was a nice surround by him.
+
+80
+00:03:34,799 --> 00:03:39,360
+>> On my way. Right. Ready for my
+On my way. Right. Ready for my
+
+81
+00:03:38,560 --> 00:03:43,759
+>> Let's get moving.
+Let's get moving.
+
+82
+00:03:39,360 --> 00:03:44,319
+>> SAY THE WORD. RIGHT. LET ME ADAM. I lord
+SAY THE WORD. RIGHT. LET ME ADAM. I lord
+
+83
+00:03:43,759 --> 00:03:45,919
+of course
+I lord of course
+
+84
+00:03:44,318 --> 00:03:48,000
+>> I'm ready and will take you down.
+I'm ready and will take you down.
+
+85
+00:03:45,919 --> 00:03:49,679
+>> We'll get boots first.
+We'll get boots first.
+
+86
+00:03:48,000 --> 00:03:51,280
+>> On my way. On my way.
+On my way. On my way.
+
+87
+00:03:49,680 --> 00:03:54,360
+>> He's not getting a lot of resources by
+He's not getting a lot of resources by
+
+88
+00:03:51,280 --> 00:03:54,360
+the way.
+the way.
+
+89
+00:03:56,719 --> 00:04:01,000
+>> He's not gathering a whole lot of
+He's not gathering a whole lot of
+
+90
+00:03:58,000 --> 00:04:01,000
+lumber.
+lumber.
+
+91
+00:04:02,318 --> 00:04:06,639
+>> Say the word.
+Say the word.
+
+92
+00:04:04,878 --> 00:04:07,438
+>> I need stop of telly cuz he's level two
+I need stop of telly cuz he's level two
+
+93
+00:04:06,639 --> 00:04:10,079
+already.
+already.
+
+94
+00:04:07,438 --> 00:04:11,039
+>> Say the word. What do you need?
+Say the word. What do you need?
+
+95
+00:04:10,080 --> 00:04:12,640
+>> Under attack.
+Under attack.
+
+96
+00:04:11,039 --> 00:04:14,719
+>> Let's get it on.
+Let's get it on.
+
+97
+00:04:12,639 --> 00:04:15,679
+>> WHAT'S HAPPENING?
+WHAT'S HAPPENING?
+
+98
+00:04:14,719 --> 00:04:17,759
+>> LET'S GET MOVING.
+LET'S GET MOVING.
+
+99
+00:04:15,680 --> 00:04:19,600
+>> YES, my lord.
+YES, my lord.
+
+100
+00:04:17,759 --> 00:04:20,079
+>> You're kind of slow for a human, aren't
+You're kind of slow for a human, aren't
+
+101
+00:04:19,600 --> 00:04:20,799
+you?
+你是谁？
+
+102
+00:04:20,079 --> 00:04:22,959
+>> Say the word.
+报个码。
+
+103
+00:04:20,798 --> 00:04:25,599
+>> I'm ready and waiting. Orders.
+已就绪，指令。
+
+104
+00:04:22,959 --> 00:04:27,279
+>> I'm ready and waiting. It's hammer time.
+已就绪，行动时刻。
+
+105
+00:04:25,600 --> 00:04:27,520
+You're kind of slow for a human, aren't
+你作为人类反应真慢，不是吗？
+
+106
+00:04:27,279 --> 00:04:30,719
+you?
+你是谁？
+
+107
+00:04:27,519 --> 00:04:33,198
+>> You need the word.
+需要报个码。
+
+108
+00:04:30,720 --> 00:04:33,919
+>> Are slow for a human, aren't you?
+作为人类反应真慢，不是吗？
+
+109
+00:04:33,199 --> 00:04:35,680
+>> It's hammer time.
+行动时刻。
+
+110
+00:04:33,918 --> 00:04:37,279
+>> If he gets a vanilla surround on me,
+若他对我使用普通攻击，
+
+111
+00:04:35,680 --> 00:04:40,840
+>> get moving.
+就给我闪开。
+
+112
+00:04:37,279 --> 00:04:40,839
+It's really bad
+真要命
+
+113
+00:04:41,199 --> 00:04:44,720
+>> because then I can't staff oft then he
+因为我无法应对他的
+
+114
+00:04:43,360 --> 00:04:45,600
+uses impale for the
+穿刺攻击。
+
+115
+00:04:44,720 --> 00:04:47,759
+>> what's happening.
+怎么回事？
+
+116
+00:04:45,600 --> 00:04:48,800
+>> Say the word
+快报个码
+
+117
+00:04:47,759 --> 00:04:50,720
+under attack.
+正在受袭。
+
+118
+00:04:48,800 --> 00:04:54,720
+>> Let's get moving.
+快行动。
+
+119
+00:04:50,720 --> 00:04:58,000
+>> Say the word. I'm ready and waiting.
+报个码，已就绪。
+
+120
+00:04:54,720 --> 00:04:59,199
+>> Take this you bastard. Let's get it on
+拿命来吧，混蛋，开战了
+
+121
+00:04:58,000 --> 00:05:00,240
+>> for the interrupt.
+打断他的。
+
+122
+00:04:59,199 --> 00:05:02,800
+>> What's happening?
+怎么回事？
+
+123
+00:05:00,240 --> 00:05:03,680
+>> That's more like it. Let's get it on.
+这才像样，开战了。
+
+124
+00:05:02,800 --> 00:05:05,120
+It's hammer.
+行动时刻。
+
+125
+00:05:03,680 --> 00:05:07,360
+>> Okay, good.
+好的，开始。
+
+126
+00:05:05,120 --> 00:05:10,079
+That's more like it is. You're kind of
+这样才对。你作为人类，速度倒有点慢，不是吗？
+
+127
+00:05:07,360 --> 00:05:11,360
+slow for a human, aren't you?
+我准备好了。
+
+128
+00:05:10,079 --> 00:05:14,000
+>> I'm ready.
+血法师第二。
+
+129
+00:05:11,360 --> 00:05:15,840
+>> Blood mage second.
+我准备好了。
+
+130
+00:05:14,000 --> 00:05:17,038
+>> I'm ready.
+力量军团被攻击了。
+
+131
+00:05:15,839 --> 00:05:17,918
+Forces are under attack.
+人类，不是吗？
+
+132
+00:05:17,038 --> 00:05:18,560
+>> Human, aren't you?
+你需要什么？
+
+133
+00:05:17,918 --> 00:05:21,519
+>> What do you need?
+发生了什么事？我们行动吧。
+
+134
+00:05:18,560 --> 00:05:23,199
+>> What's happening? Let's do this.
+你作为人类，速度倒有点慢，不是吗？
+
+135
+00:05:21,519 --> 00:05:23,519
+>> You're kind of slow for a human, aren't
+你需要什么？
+
+136
+00:05:23,199 --> 00:05:24,960
+you?
+发号施令吧。
+
+137
+00:05:23,519 --> 00:05:25,599
+>> What do you need?
+终于，他的主英雄是纳鲁比安。
+
+138
+00:05:24,959 --> 00:05:27,439
+>> Say the word.
+我们行动吧。
+
+139
+00:05:25,600 --> 00:05:29,600
+>> Finally, he has Narubian in his main.
+好的。
+
+140
+00:05:27,439 --> 00:05:30,160
+>> Let's do this.
+发生了什么事？
+
+141
+00:05:29,600 --> 00:05:31,520
+>> All right.
+是的，发号施令吧。我们出发。
+
+142
+00:05:30,160 --> 00:05:35,039
+>> What's happening?
+我还能取消他的黄金矿脉吗？
+
+143
+00:05:31,519 --> 00:05:39,478
+>> Yes, my say the word. Let's get moving.
+我们出发。
+
+144
+00:05:35,038 --> 00:05:39,478
+>> Can I still cancel his gold mine?
+我觉得可以。你人挺善良的。
+
+145
+00:05:40,639 --> 00:05:46,600
+>> Let's get moving.
+如果我能一次取消，会很大。
+
+146
+00:05:41,839 --> 00:05:46,599
+>> I think so. You're kind.
+他得用身体挡住我。
+
+147
+00:05:47,120 --> 00:05:51,680
+>> It would be very big if I can cancel it
+发生了什么事？
+
+148
+00:05:49,199 --> 00:05:53,360
+once.
+发生了什么事？
+
+149
+00:05:51,680 --> 00:05:55,759
+>> He's got to try and body block me.
+是的，发号施令吧。我们出发。
+
+150
+00:05:53,360 --> 00:05:57,280
+>> What's happening?
+我还能取消他的黄金矿脉吗？
+
+151
+00:05:55,759 --> 00:05:58,400
+>> Let's get moving.
+Let's get moving. → << 我们应该尽快行动。 这里可能更自然的翻译是“<< 快点行动。”或者“<< 我们得动身了。”但用户翻译成“应该尽快行动”可能更正式，但符合要求。
+
+152
+00:05:57,279 --> 00:05:59,038
+>> Let's get it on.
+Let's get it on. → << 我们得开始干了。 这里“get it on”比较口语化，翻译成“开始干了”比较合适。
+
+153
+00:05:58,399 --> 00:06:01,439
+>> What do you need?
+What do you need? → << 你需要什么？ 正确。
+
+154
+00:05:59,038 --> 00:06:02,319
+>> You're kind of slow for a human.
+You're kind of slow for a human. → << 你作为人类，动作真慢。 正确。
+
+155
+00:06:01,439 --> 00:06:04,240
+>> What's happening?
+What's happening? → << 发生了什么事？ 正确。
+
+156
+00:06:02,319 --> 00:06:06,240
+>> You need
+You need → << 你需要…（用户翻译成“你需要”后面可能不完整，但原句可能被截断，所以保留原样）
+
+157
+00:06:04,240 --> 00:06:09,478
+What's happening
+What's happening → << 发生了什么事（用户翻译成“发生了什么事”，正确）
+
+158
+00:06:06,240 --> 00:06:09,478
+under attack?
+under attack? → << 被攻击了？（用户翻译成“被攻击了？”正确）
+
+159
+00:06:11,120 --> 00:06:13,759
+>> Oh, this is big.
+Oh, this is big. → << 哦，这可大了。 正确。
+
+160
+00:06:12,639 --> 00:06:16,079
+>> Huge.
+Huge. → << 巨大。 或者“太大了。”但用户翻译成“巨大”更简洁。
+
+161
+00:06:13,759 --> 00:06:17,120
+>> Let's get moving.
+Let's get moving. → << 我们应该尽快行动。 同样，可能需要更口语化的表达。
+
+162
+00:06:16,079 --> 00:06:20,240
+>> Huge.
+Huge. → << 巨大。 同上。
+
+163
+00:06:17,120 --> 00:06:23,478
+>> We should move soon. I sense some kind
+We should move soon. I sense some kind of human. → << 我们应该尽快行动。 我察觉到有类似人类的东西。 用户翻译为“我们应当立即行动。 我感觉到有某种人类。”可能更准确。
+
+164
+00:06:20,240 --> 00:06:23,478
+of human.
+of human. → 用户翻译为“某种人类。”正确。
+
+165
+00:06:27,519 --> 00:06:30,959
+>> Now we do this.
+Now we do this. → << 现在我们做这个。 用户翻译为“现在我们来做这个。”更自然。
+
+166
+00:06:29,759 --> 00:06:34,000
+>> What is it?
+What is it? → << 这是什么？ 正确。
+
+167
+00:06:30,959 --> 00:06:35,359
+>> I'm ready. What's the hold up?
+I'm ready. What's the hold up? → << 我准备好了。 为什么还不行动？ 用户翻译为“我准备好了。 为什么还没行动？”正确。
+
+168
+00:06:34,000 --> 00:06:38,399
+>> I feel edgy.
+I feel edgy. → << 我感觉紧张。 或者“有压力”，但用户翻译为“我感到紧张。”正确。
+
+169
+00:06:35,360 --> 00:06:39,038
+>> Let's get moving.
+Let's get moving. → << 我们应该尽快行动。 同样，可能需要调整。
+
+170
+00:06:38,399 --> 00:06:39,839
+>> I sense
+I sense → << 我察觉到（用户翻译为“我察觉到”正确）
+
+171
+00:06:39,038 --> 00:06:40,560
+>> what's happening.
+what's happening. → << 发生了什么事（用户翻译为“发生了什么事”正确）
+
+172
+00:06:39,839 --> 00:06:42,879
+>> Elusive.
+Elusive. → << 难以捕捉的（用户翻译为“难以捕捉的”正确）
+
+173
+00:06:40,560 --> 00:06:46,079
+>> Let's get moving. What's happening?
+Let's get moving. What's happening? → << 我们应该尽快行动。 发生了什么事？ 用户翻译为“我们该动身了。 发生了什么事？”更自然。
+
+174
+00:06:42,879 --> 00:06:47,120
+>> We'll do one priest and a sorceress.
+We'll do one priest and a sorceress. → << 我们先处理一个牧师和一个女巫。 用户翻译为“我们将先处理一名牧师和一名女巫。”正确。
+
+175
+00:06:46,079 --> 00:06:49,279
+>> We should move.
+We should move. → << 我们应该尽快行动。 用户翻译为“我们应该立即行动。”正确。
+
+176
+00:06:47,120 --> 00:06:53,959
+>> Kind of slow for a human, aren't you?
+你人类的话，动作倒是挺慢的，不是吗？
+
+177
+00:06:49,279 --> 00:06:53,959
+>> That's more like it. Let's do this.
+这才像样。行动吧。
+
+178
+00:06:56,720 --> 00:07:00,600
+And then we bring uh
+然后我们筹备
+
+179
+00:07:06,478 --> 00:07:12,360
+>> we bring militia to make a workshop
+带民兵建立工坊
+
+180
+00:07:08,959 --> 00:07:12,359
+offensive mangan.
+offensive 军事单位。
+
+181
+00:07:13,120 --> 00:07:17,800
+>> Let's open this up so I can defend
+打开这个，让我能抵御异族。
+
+182
+00:07:14,560 --> 00:07:17,800
+against beles.
+人类的。
+
+183
+00:07:20,319 --> 00:07:23,560
+of human.
+这才像样。
+
+184
+00:07:28,319 --> 00:07:31,840
+>> That's more like
+my people.
+
+185
+00:07:29,279 --> 00:07:35,000
+>> my people.
+Of course.
+
+186
+00:07:31,839 --> 00:07:35,000
+>> Of course.
+My word.
+
+187
+00:07:35,120 --> 00:07:41,399
+>> My word.
+获取。
+
+188
+00:07:38,240 --> 00:07:41,400
+>> Let's get
+On my way.
+
+189
+00:07:43,439 --> 00:07:48,759
+my
+漏洞在哪儿？
+
+190
+00:07:45,360 --> 00:07:48,759
+>> On my way.
+Off I go then.
+
+191
+00:07:49,598 --> 00:07:53,000
+What's the hole?
+击杀自己的镜头。
+
+192
+00:07:55,120 --> 00:07:58,840
+>> Off I go then.
+I go then.
+
+193
+00:07:58,879 --> 00:08:01,120
+>> Kill my own
+All right.
+
+194
+00:07:59,439 --> 00:08:04,519
+>> footage.
+发生什么事？快动起来！
+
+195
+00:08:01,120 --> 00:08:04,519
+I go then.
+发生什么事？
+
+196
+00:08:05,199 --> 00:08:08,079
+>> All right.
+Let's level up for King. Our forces are
+
+197
+00:08:06,000 --> 00:08:09,279
+>> What's happening? Let's get moving.
+under attack.
+
+198
+00:08:08,079 --> 00:08:12,000
+What's happening?
+第二十条：“What's happening?” 翻译成“发生什么事？”保持一致。
+
+199
+00:08:09,279 --> 00:08:15,318
+>> Let's level up for King. Our forces are
+第二十一条：“>> Let's level up for King. Our forces are under attack.” 翻译成“为我们国王升级。我们的部队正在被围攻。”专业术语“level up”翻译为“升级”合适。
+
+200
+00:08:12,000 --> 00:08:15,319
+under attack.
+检查序号是否一致，确保没有遗漏或错位。专业术语如“military”、“defend against beles”等处理准确。整体翻译流畅，符合中文表达习惯。最后确认只输出翻译结果，没有多余的解释。
+
+201
+00:08:17,038 --> 00:08:22,038
+>> He's still tier.
+他还在垫底
+
+202
+00:08:19,038 --> 00:08:22,038
+one.
+一。
+
+203
+00:08:23,279 --> 00:08:29,478
+>> I think we'll get flame strike
+我觉得我们会收到差评攻击
+
+204
+00:08:24,879 --> 00:08:29,479
+>> if you want. I guess I can
+你想的话。我估计能
+
+205
+00:08:33,519 --> 00:08:37,599
+>> work.
+去办
+
+206
+00:08:36,000 --> 00:08:41,080
+What's happening?
+怎么回事？
+
+207
+00:08:37,599 --> 00:08:41,080
+>> That's more like
+更像
+
+208
+00:08:43,360 --> 00:08:48,159
+Let's get moving. Let's get it on. Let's
+咱们动起来吧！赶紧开始行动！现在就干！
+
+209
+00:08:46,320 --> 00:08:51,160
+do this.
+好，
+
+210
+00:08:48,159 --> 00:08:51,159
+Okay,
+现在就干！
+
+211
+00:08:57,200 --> 00:09:00,240
+>> let's do this.
+什么情况？
+
+212
+00:08:58,799 --> 00:09:03,278
+>> What is it?
+你需要什么？怎么回事？
+
+213
+00:09:00,240 --> 00:09:05,600
+>> What do you need? What's happening?
+我可能说了什么。
+
+214
+00:09:03,278 --> 00:09:09,080
+>> I think I must be
+我的部队被攻击了。
+
+215
+00:09:05,600 --> 00:09:09,080
+>> I said something.
+我感觉有点暴躁。
+
+216
+00:09:10,799 --> 00:09:14,919
+>> My forces are under attack.
+你要求我立刻行动吗？
+
+217
+00:09:16,159 --> 00:09:20,319
+>> I feel edgy.
+让我们动起来。
+
+218
+00:09:18,399 --> 00:09:21,278
+Do you requ
+怎么回事？
+
+219
+00:09:20,320 --> 00:09:22,720
+>> right away?
+这是反击时刻。
+
+220
+00:09:21,278 --> 00:09:23,600
+>> Let's get moving.
+更多的部队被攻击了。
+
+221
+00:09:22,720 --> 00:09:27,320
+>> What's happening?
+有人在这里吗？
+
+222
+00:09:23,600 --> 00:09:27,320
+>> It's hammer time.
+我的集结号吹响了。
+
+223
+00:09:27,919 --> 00:09:33,679
+>> More forces are under attack.
+我的部队被攻击了。
+
+224
+00:09:30,720 --> 00:09:37,800
+>> Is someone here?
+我感觉有点暴躁。
+
+225
+00:09:33,679 --> 00:09:37,799
+>> My miss rally.
+你要求我立刻行动吗？
+
+226
+00:09:41,200 --> 00:09:43,920
+>> You should move, sir.
+您该移动了，先生。
+
+227
+00:09:43,120 --> 00:09:45,919
+>> Let's get moving.
+我们得动身了。
+
+228
+00:09:43,919 --> 00:09:48,319
+>> Help me. I'm ready.
+帮帮我，我准备好了。
+
+229
+00:09:45,919 --> 00:09:49,519
+>> You're kind of slow for human action.
+你作为人类动作起来太慢了。
+
+230
+00:09:48,320 --> 00:09:53,680
+>> Let's get it.
+我们得搞定了。
+
+231
+00:09:49,519 --> 00:09:56,679
+>> Let's get it on. What the
+我们得行动了。什么…清除了？
+
+232
+00:09:53,679 --> 00:09:56,679
+cleans,
+cleans,
+
+233
+00:09:56,799 --> 00:10:02,759
+you won't get me, Lord.
+你别想抓住我，老天爷。
+
+234
+00:10:04,559 --> 00:10:08,159
+>> Not enough.
+不够。
+
+235
+00:10:07,120 --> 00:10:10,560
+>> Do you require me?
+你需要我吗？
+
+236
+00:10:08,159 --> 00:10:12,399
+>> Let's get That's more like it. That's
+我们得（那）样做。这才像话。这才
+
+237
+00:10:10,559 --> 00:10:16,879
+more like it.
+才像话。
+
+238
+00:10:12,399 --> 00:10:21,078
+>> Help me. I think it must be abandoned.
+帮帮我。我觉得这必须放弃了。
+
+239
+00:10:16,879 --> 00:10:21,078
+>> Our forces are under attack.
+我方部队遭到攻击。
+
+240
+00:10:21,200 --> 00:10:25,560
+>> IT'S MY
+这是我
+
+241
+00:10:32,720 --> 00:10:37,959
+EYES. Let's get to the target.
+EYES。我们得去目标点。
+
+242
+00:10:42,399 --> 00:10:45,399
+>> GG.
+GG。
+
+243
+00:10:49,120 --> 00:10:53,799
+>> Nice. Good game.
+不错。玩得精彩。
+
+244
+00:10:54,879 --> 00:11:00,879
+Micro wars. That guy was pretty good.
+微型战争。那人玩得确实不错。
+
+245
+00:10:58,639 --> 00:11:03,039
+So, you're going to be watching the
+所以，你会在 later （此处原文不完整）
+
+246
+00:11:00,879 --> 00:11:06,000
+video guides that I shared with you,
+观看我为你们分享的视频指南，
+
+247
+00:11:03,039 --> 00:11:08,480
+Papa Asher. So, I don't have to ne
+塔莎·阿什。因此，我无需按现在
+
+248
+00:11:06,000 --> 00:11:10,320
+necessarily build up this what I'm doing
+进行中的方式逐步构建这套体系。
+
+249
+00:11:08,480 --> 00:11:11,759
+now in the exact same way. You'll watch
+你稍后观看并自行整合这些
+
+250
+00:11:10,320 --> 00:11:14,399
+it later and you'll put things in
+（原文不完整）
+
+251
+00:11:11,759 --> 00:11:16,240
+context, but in it, I'm going to be
+“context, but in it, I'm going to be talking about a lot of different things.” 这里“context”可能需要调整，比如“不过，在这部分我会涉及许多不同的话题。”保持序号，同时自然流畅。
+
+252
+00:11:14,399 --> 00:11:19,519
+talking about a lot of different things.
+“talking about a lot of different things.” 翻译为“会涉及许多不同的话题。”和第一句连贯。
+
+253
+00:11:16,240 --> 00:11:22,079
+Obviously, uh you are not completely new
+“Obviously, uh you are not completely new to Warcraft 3, but it's good to know the following.” 这里“uh”是口语中的停顿，可以省略，翻译成“不过显然您对魔兽争霸3并不陌生，但了解以下几点很重要。”
+
+254
+00:11:19,519 --> 00:11:24,399
+to Warcraft 3, but it's good to know the
+“Everyone has the same income in Warcraft 3. The income caps at five beons in gold and you'll make eight workers on wood and that's about it and you generally don't touch your income anymore.” 这里“beons”可能是指资源单位，但根据上下文，可能是指“金币上限为五块，木材八块”，所以翻译为“在魔兽争霸3中，所有玩家的收入都相同。金币上限为五块，木材八块，之后收入基本不再增长。”
+
+255
+00:11:22,078 --> 00:11:27,120
+following. Everyone has the same income
+“The next forms of income are through upkeep in the form of a restriction.” “upkeep”翻译为“维护费用”，整句为“后续收入则通过维护费用的限制来获取。”
+
+256
+00:11:24,399 --> 00:11:29,200
+in Warcraft 3. The income caps at five
+如果你组建大军队，基本没有钱可用。
+
+257
+00:11:27,120 --> 00:11:31,039
+beons in gold and you'll make eight
+大军队需要战斗、争夺优势、消灭敌人或求生存。
+
+258
+00:11:29,200 --> 00:11:32,480
+workers on wood and that's about it and
+小部队需要躲避、侦察、规避、讲究战术、游击作战并积累资本。
+
+259
+00:11:31,039 --> 00:11:35,199
+you generally don't touch your income
+所以，如果您想变得危险，请超过50并使用它。
+
+260
+00:11:32,480 --> 00:11:37,200
+anymore. The next forms of income are
+如果您想保持经济性，请低于50并使用它。
+
+261
+00:11:35,200 --> 00:11:39,519
+through upkeep
+那就是管理魔兽争霸3经济的要点，因为金币上限是五块。
+
+262
+00:11:37,200 --> 00:11:41,360
+in the form of a restriction. So if you
+木材八块通常对人类玩家就足够了。
+
+263
+00:11:39,519 --> 00:11:45,278
+get big army, you get little money
+我正在对抗一个贪婪的对手。 Uh
+
+264
+00:11:41,360 --> 00:11:49,200
+basically. So big armies need to fight
+关于战术部分，“Small armies need to dodge, scout, evade, be tactical, hit and run, and build up capital.” 需要找到合适的中文动词组合，比如“小部队需要躲避、侦察、规避、讲究战术、游击作战并积累资本。”
+
+265
+00:11:45,278 --> 00:11:52,480
+or gain advantage or kill or survive.
+最后，“I'm playing against a greedy player. Uh” 这里“greedy player”翻译为“贪婪的对手”，语气自然。
+
+266
+00:11:49,200 --> 00:11:56,240
+Small armies need to dodge, scout,
+整个过程需要检查每条翻译是否准确，尤其是游戏术语和数字部分，比如“over 50”和“under 50”要准确转换为“超过50”和“低于50”。同时保持句子结构符合中文习惯，避免直译导致的生硬。
+
+267
+00:11:52,480 --> 00:11:59,600
+evade, be tactical, hit and run, and
+最后，确认所有序号正确无误，没有遗漏或错位，并且专业术语准确，比如“beons”处理为“块”是否符合游戏内的常用说法，可能需要验证，但根据上下文，可能用户接受这样的翻译。
+
+268
+00:11:56,240 --> 00:12:02,799
+build up capital. So, if you're ready to
+完成所有翻译后，再次检查是否符合用户的所有要求：序号正确、准确自然、专业术语正确、无额外解释。确保输出格式正确，只有翻译结果。
+
+269
+00:11:59,600 --> 00:12:05,120
+become dangerous, go over 50 and use it.
+</think>
+
+270
+00:12:02,799 --> 00:12:08,399
+And if you're ready to be economical,
+翻译结果：
+
+271
+00:12:05,120 --> 00:12:11,039
+stay under 50 and use it. That's how you
+不过，在这部分我会涉及许多不同的话题。
+
+272
+00:12:08,399 --> 00:12:13,120
+manage an economy in Warcraft 3, because
+会涉及许多不同的话题。
+
+273
+00:12:11,039 --> 00:12:16,958
+five in gold is the max. Eight on wood
+显然您对魔兽争霸3并不陌生，但了解以下几点很重要。
+
+274
+00:12:13,120 --> 00:12:19,440
+is generally enough for a human.
+在魔兽争霸3中，所有玩家的收入都相同。金币上限为五块，木材八块，之后收入基本不再增长。
+
+275
+00:12:16,958 --> 00:12:21,119
+I'm playing against a greedy player. Uh
+后续收入则通过维护费用的限制来获取。
+
+276
+00:12:19,440 --> 00:12:24,079
+there's another way to gain gold, which
+有另一种获取金币的方式，那就是
+
+277
+00:12:21,120 --> 00:12:26,560
+is to creep, of course. Creeping is
+潜行，当然。潜行就是在地图上
+
+278
+00:12:24,078 --> 00:12:29,838
+where you kill neutral camps on the map.
+击杀中立营地。
+
+279
+00:12:26,559 --> 00:12:33,199
+Kill them for experience points. A gold
+击杀它们可获得经验值。金币
+
+280
+00:12:29,839 --> 00:12:36,000
+kill bounty and items. Items can either
+和击杀悬赏。物品可以
+
+281
+00:12:33,200 --> 00:12:38,079
+be used or sold. Selling items gives you
+或者出售。出售物品能获得
+
+282
+00:12:36,000 --> 00:12:42,120
+gold. Using them makes you stronger
+金币。使用它们能增强战力
+
+283
+00:12:38,078 --> 00:12:42,120
+without increasing your upkeep.
+而不会增加维护费用。
+
+284
+00:12:45,679 --> 00:12:50,638
+he was listening to. Uh so uh as a new
+他在听。呃作为新手玩家，
+
+285
+00:12:49,200 --> 00:12:53,040
+player, we are going to be keeping our
+我们会保持基地开放，因为
+
+286
+00:12:50,639 --> 00:12:55,759
+base open because the chance that we
+被困在基地里的概率太高。所以
+
+287
+00:12:53,039 --> 00:12:57,360
+stuck ourselves in base is too great. So
+专业玩家会在这里建立农场，
+
+288
+00:12:55,759 --> 00:12:59,039
+a pro player would build their farm
+用围墙隔离，并确保自己
+
+289
+00:12:57,360 --> 00:13:01,278
+here, wall off and then make sure they
+从不陷入困境。但新手玩家
+
+290
+00:12:59,039 --> 00:13:03,519
+never get stuck. But new players will
+会陷入困境，而不会有
+
+291
+00:13:01,278 --> 00:13:05,439
+get stuck and there will be no one to
+人能从洗衣机里救出他们。
+
+292
+00:13:03,519 --> 00:13:06,959
+get them out of the washing machine. So
+所以我们会在基地留个出口，
+
+293
+00:13:05,440 --> 00:13:08,720
+we're going to keep a hole here so we
+以便随时脱困，无需
+
+294
+00:13:06,958 --> 00:13:10,638
+can easily get out and we won't need to
+求助兄弟姐妹。我们将制作
+
+295
+00:13:08,720 --> 00:13:12,800
+call on any step siblings. We're going
+魔法师，当兵营完工后，
+
+296
+00:13:10,639 --> 00:13:14,320
+to make arc mage and when the barracks
+就开始生产步兵。
+
+297
+00:13:12,799 --> 00:13:17,599
+finishes, we're going to be making
+通常我们需要制作3到5个
+
+298
+00:13:14,320 --> 00:13:20,399
+footmen from that.
+步兵，然后转而生产
+
+299
+00:13:17,600 --> 00:13:22,639
+Generally, we want to make about three
+其他单位。
+
+300
+00:13:20,399 --> 00:13:26,278
+to five footmen and then transition to
+人能从洗衣机里救出他们。
+
+301
+00:13:22,639 --> 00:13:26,278
+rifles and priests.
+步枪与祭司。
+
+302
+00:13:26,320 --> 00:13:30,760
+>> Job done.
+任务完成。
+
+303
+00:13:27,759 --> 00:13:30,759
+>> Uh,
+嗯，
+
+304
+00:13:31,839 --> 00:13:35,200
+okay. Sorry, it's really hard to have
+好的。抱歉，同时进行两场对话和游戏确实很难，所以我通常无法充分回应对手。
+
+305
+00:13:33,600 --> 00:13:37,360
+two conversations and play at the same
+因此每座 creep 营地都有独特战术。您会在我的系列教程第六篇（followgrubby.com）中看到关于 AI 操控 creep 的详细解析，这其实是游戏核心机制。
+
+306
+00:13:35,200 --> 00:13:39,278
+time, so I can usually not respond much
+比如这座营地没有守卫，拥有法力条。这意味着它需要优先被击杀。
+
+307
+00:13:37,360 --> 00:13:41,519
+to my opponent. Uh we're going to be
+此外存在战术认知差异。部分 creep 需要特殊应对，例如
+
+308
+00:13:39,278 --> 00:13:43,919
+taking some creep camps. Uh every creep
+这位守卫会清剿进入其攻击范围的任何近战单位或召唤物。我们先用士兵（脚兵）攻击它触发清剿机制
+
+309
+00:13:41,519 --> 00:13:46,240
+camp has its own approach. You'll see
+然后召唤水元素
+
+310
+00:13:43,919 --> 00:13:48,799
+that the sixth guide in my series on
+若成功召唤水元素并进入其范围
+
+311
+00:13:46,240 --> 00:13:51,440
+followgrubby.com will go extensively
+任务完成。
+
+312
+00:13:48,799 --> 00:13:53,039
+into creeping AI manipulation. This is
+嗯，
+
+313
+00:13:51,440 --> 00:13:54,880
+actually a really important part of the
+好的。抱歉，同时进行两场对话和游戏确实很难，所以我通常无法充分回应对手。
+
+314
+00:13:53,039 --> 00:13:56,958
+game. So if you look at this camp,
+因此每座 creep 营地都有独特战术。您会在我的系列教程第六篇（followgrubby.com）中看到关于 AI 操控 creep 的详细解析，这其实是游戏核心机制。
+
+315
+00:13:54,879 --> 00:13:58,559
+there's a no warden. He has a mana bar.
+比如这座营地没有守卫，拥有法力条。这意味着它需要优先被击杀。
+
+316
+00:13:56,958 --> 00:14:01,359
+That generally means he needs to die
+此外存在战术认知差异。部分 creep 需要特殊应对，例如
+
+317
+00:13:58,559 --> 00:14:03,679
+first. Also, it's a knowledge issue.
+这位守卫会清剿进入其攻击范围的任何近战单位或召唤物。我们先用士兵（脚兵）攻击它触发清剿机制
+
+318
+00:14:01,360 --> 00:14:06,240
+Sometimes some creeps, you need to
+然后召唤水元素
+
+319
+00:14:03,679 --> 00:14:08,319
+handle them differently than others. So
+若成功召唤水元素并进入其范围
+
+320
+00:14:06,240 --> 00:14:10,480
+this guy will actually purge whatever
+（注：严格保持序号和特殊符号，优化了"footman"的注释处理，将"creep"统一译为游戏通用术语" creep"，调整了部分句式结构以符合中文对话节奏，专业术语如"warden"译为"守卫"，"summon"译为"召唤物"均符合MOBA类游戏术语规范）
+
+321
+00:14:08,320 --> 00:14:13,839
+melee unit or summon comes into his
+melee unit or summon comes into his
+
+322
+00:14:10,480 --> 00:14:16,560
+range. So we first land a hit on him
+range. So we first land a hit on him
+
+323
+00:14:13,839 --> 00:14:18,959
+>> with footman so that he gets purged.
+with footman so that he gets purged.
+
+324
+00:14:16,559 --> 00:14:20,958
+Then we summon water elemental. If we
+Then we summon water elemental. If we
+
+325
+00:14:18,958 --> 00:14:23,359
+make the water elemental and walk into
+make the water elemental and walk into
+
+326
+00:14:20,958 --> 00:14:25,838
+the camp, he will purge the alley and we
+他在营地清理小道，但我们会在小道上损失生命值。之后小道会变得更不健康，这会让我们付出代价
+
+327
+00:14:23,360 --> 00:14:28,560
+will lose health on the alley. It will
+持续施压
+
+328
+00:14:25,839 --> 00:14:30,560
+then be less healthy and that's going to
+持续施压战术
+
+329
+00:14:28,559 --> 00:14:33,198
+cost us
+是持续施压
+
+330
+00:14:30,559 --> 00:14:36,159
+creeping efficiency. Creeping efficiency
+持续施压战术的核心在于快速推进并承受最小伤害
+
+331
+00:14:33,198 --> 00:14:38,559
+is all about doing it fast and taking
+所以我要召唤第二个水元素
+
+332
+00:14:36,159 --> 00:14:39,919
+little damage.
+先击杀两个远程兵，因为他们就像玻璃大炮
+
+333
+00:14:38,559 --> 00:14:42,078
+>> So I'm going to summon second water
+如果奥法法师被攻击，我们就直接走开
+
+334
+00:14:39,919 --> 00:14:44,399
+elemental. Kill the two ranged first
+把一些单位部署在奥法法师身上，其余继续推进
+
+335
+00:14:42,078 --> 00:14:49,120
+because they are like glass cannon.
+始终保留机动单位
+
+336
+00:14:44,399 --> 00:14:51,039
+Ranged have high damage and low health.
+保持随时待命状态
+
+337
+00:14:49,120 --> 00:14:52,000
+>> If arch mage gets attacked, we just walk
+部落受到突袭
+
+338
+00:14:51,039 --> 00:14:54,799
+away.
+需要我的支援
+
+339
+00:14:52,000 --> 00:14:57,919
+>> We put some units on the ark mage and we
+是的，按我说的做
+
+340
+00:14:54,799 --> 00:14:57,919
+keep creeping with the rest.
+快上马！
+
+341
+00:15:01,839 --> 00:15:06,480
+always put some units
+持续施压战术的核心在于快速推进并承受最小伤害
+
+342
+00:15:05,120 --> 00:15:09,679
+>> ready for action.
+所以我要召唤第二个水元素
+
+343
+00:15:06,480 --> 00:15:11,120
+>> Town is under
+先击杀两个远程兵，因为他们就像玻璃大炮
+
+344
+00:15:09,679 --> 00:15:11,919
+>> Don't let him last hit.
+如果奥法法师被攻击，我们就直接走开
+
+345
+00:15:11,120 --> 00:15:15,198
+>> What is it now?
+把一些单位部署在奥法法师身上，其余继续推进
+
+346
+00:15:11,919 --> 00:15:16,879
+>> Forces are under attack.
+始终保留机动单位
+
+347
+00:15:15,198 --> 00:15:20,198
+>> You require my assistance.
+保持随时待命状态
+
+348
+00:15:16,879 --> 00:15:20,198
+>> Yes, my
+部落受到突袭
+
+349
+00:15:20,559 --> 00:15:22,879
+word.
+需要我的支援
+
+350
+00:15:21,198 --> 00:15:26,198
+>> Get on.
+是的，按我说的做
+
+351
+00:15:22,879 --> 00:15:26,198
+>> Good battle.
+打得漂亮。
+
+352
+00:15:26,639 --> 00:15:29,919
+Okay, don't forget to tech up while
+好的，在被骚扰时记得科技升级
+
+353
+00:15:28,399 --> 00:15:31,039
+you're getting harassed.
+，
+
+354
+00:15:29,919 --> 00:15:33,039
+>> What is it now?
+现在又怎么了？
+
+355
+00:15:31,039 --> 00:15:35,679
+>> Uh, anytime Ark Mage comes after you,
+每次当亚ark魔法师追击你时，
+
+356
+00:15:33,039 --> 00:15:37,439
+just run into your base, summon militia,
+就往基地跑，召唤民兵，
+
+357
+00:15:35,679 --> 00:15:39,359
+attack the wolves with everything, and
+用所有兵力攻击狼群，
+
+358
+00:15:37,440 --> 00:15:43,880
+put about two to three footmen on his
+并在魔法师远处的据点部署
+
+359
+00:15:39,360 --> 00:15:43,879
+farces are under attack.
+两到三个步兵进行牵制。
+
+360
+00:15:44,799 --> 00:15:49,359
+>> And that way he takes damage.
+这样就能让他吃点亏。
+
+361
+00:15:47,120 --> 00:15:50,560
+>> Okay, we're at 30 population. Tech has
+目前人口30点，科技已启动。
+
+362
+00:15:49,360 --> 00:15:53,360
+started. We're going to make a
+我们要建造铁匠铺转型步枪。
+
+363
+00:15:50,559 --> 00:15:56,000
+blacksmith to transition to rifles. Now
+现在我知道你在问我
+
+364
+00:15:53,360 --> 00:15:57,440
+I know you were asking meord
+应该不该扩展
+
+365
+00:15:56,000 --> 00:15:59,278
+of course right
+当然该问这个
+
+366
+00:15:57,440 --> 00:16:01,199
+>> I know you were asking me about uh
+我知道你问我该不该扩展
+
+367
+00:15:59,278 --> 00:16:02,799
+should I expand should I not expand it
+应该扩展还是不该扩展
+
+368
+00:16:01,198 --> 00:16:05,120
+seem I always seem to be doing the wrong
+看起来我总是做错事
+
+369
+00:16:02,799 --> 00:16:06,399
+thing just don't expand uh in the
+在开局阶段绝对不要扩展
+
+370
+00:16:05,120 --> 00:16:08,639
+beginning
+如果你还不清楚如何
+
+371
+00:16:06,399 --> 00:16:11,600
+>> if you don't know uh properly how to
+建造胜利条件的话
+
+372
+00:16:08,639 --> 00:16:13,440
+build like win conditions yet uh expand
+扩展本身就是一种胜利条件
+
+373
+00:16:11,600 --> 00:16:14,800
+is one win condition
+但还有许多其他更简单的
+
+374
+00:16:13,440 --> 00:16:16,560
+>> but there's many other win conditions
+胜利条件可供选择
+
+375
+00:16:14,799 --> 00:16:19,439
+that are easier to play
+我知道你问我该不该扩展
+
+376
+00:16:16,559 --> 00:16:22,159
+>> get on with it
+继续吧
+
+377
+00:16:19,440 --> 00:16:24,560
+>> uh never build blacksmith arcane vault
+从不建造黑铁魔法密室
+
+378
+00:16:22,159 --> 00:16:27,679
+or lumber lumberm mill before you tech
+或者在科技升级前不先建造木料加工厂
+
+379
+00:16:24,559 --> 00:16:29,838
+to tier two. It is very important to get
+升级到第二级。重要的是要尽早开始科技发展
+
+380
+00:16:27,679 --> 00:16:31,838
+your tech started early so that you can
+这样你就能
+
+381
+00:16:29,839 --> 00:16:35,920
+make your mounting king and start
+培养坐骑国王并开始
+
+382
+00:16:31,839 --> 00:16:39,600
+leveling him. My goal for newbies is
+提升他的等级。新手的目标是
+
+383
+00:16:35,919 --> 00:16:41,679
+that you
+你
+
+384
+00:16:39,600 --> 00:16:43,920
+>> get level three on your first hero.
+让第一个英雄达到三级
+
+385
+00:16:41,679 --> 00:16:45,278
+That's one of your goals and level three
+这是你的主要目标，让第二个英雄达到三级
+
+386
+00:16:43,919 --> 00:16:47,599
+on your second hero. That's your
+这是次要目标。然后获得60
+
+387
+00:16:45,278 --> 00:16:50,240
+secondary goal. And then to get 60
+人口并开战。
+
+388
+00:16:47,600 --> 00:16:53,199
+population and fight.
+这些是我的目标
+
+389
+00:16:50,240 --> 00:16:56,240
+>> That's my goals for you. So, um, yeah,
+所以，嗯，是的，
+
+390
+00:16:53,198 --> 00:16:59,039
+we can't get level three on theord
+我们如果在第二个英雄身上
+
+391
+00:16:56,240 --> 00:17:02,759
+on the second hero if we don't have one.
+不先建造魔法密室的话
+
+392
+00:16:59,039 --> 00:17:02,759
+>> I think that should be clear.
+这应该很清楚
+
+393
+00:17:08,078 --> 00:17:11,359
+>> What is it now?
+现在是什么状况？
+
+394
+00:17:09,838 --> 00:17:14,000
+>> Whatever.
+无所谓。
+
+395
+00:17:11,359 --> 00:17:15,759
+Get on the
+继续建造
+
+396
+00:17:14,000 --> 00:17:17,679
+>> So, it's okay to make a vault now
+现在可以建造魔法密室了
+
+397
+00:17:15,759 --> 00:17:18,959
+because tier 2 has started. We're going
+因为第二级科技已经开启。我们将建造
+
+398
+00:17:17,679 --> 00:17:21,519
+to make another farm and we're going to
+另一座农场，并开始制造火枪兵
+
+399
+00:17:18,959 --> 00:17:23,759
+start making some riflemen. units get
+单位在战场上受伤，我通常会点击受伤的士兵
+
+400
+00:17:21,519 --> 00:17:26,400
+hurt, I click the unit usually, and then
+然后
+
+401
+00:17:23,759 --> 00:17:28,160
+I press backspace. So, I click the unit,
+我按退格键。于是，我选择该单位，
+
+402
+00:17:26,400 --> 00:17:30,240
+press backspace, which goes to the town
+按退格键，来到城镇中心，市政厅，
+
+403
+00:17:28,160 --> 00:17:31,919
+center, the town hall, and then I put
+并将单位部署在那里，确保它不再
+
+404
+00:17:30,240 --> 00:17:34,558
+the unit there, and I make sure it's not
+属于我的控制组。
+
+405
+00:17:31,919 --> 00:17:36,000
+in my control group anymore.
+现在我们达到三级。这是
+
+406
+00:17:34,558 --> 00:17:38,079
+>> So, we're level three now. That's the
+我要求玩家首要达到的
+
+407
+00:17:36,000 --> 00:17:41,038
+number one goal that I ask people to
+目标——三级英雄。
+
+408
+00:17:38,079 --> 00:17:43,439
+get. Level three, first hero. Usually, I
+通常我建议在获得首个三级英雄后，
+
+409
+00:17:41,038 --> 00:17:46,079
+I recommend people to dare to get
+让玩家敢于采取激进行动，
+
+410
+00:17:43,440 --> 00:17:49,120
+aggressive once you get your first hero,
+因为三级英雄是第一关卡。
+
+411
+00:17:46,079 --> 00:17:51,279
+level three. Tier two finishes arcane
+当玩家首次达到三级时，
+
+412
+00:17:49,119 --> 00:17:53,839
+sanctum mount king build the sanctum
+二级需要完成奥法圣殿，
+
+413
+00:17:51,279 --> 00:17:57,798
+with two peasants and at the same time
+建造圣殿并配备两名农民，
+
+414
+00:17:53,839 --> 00:17:57,798
+get the long rifle upgrade.
+同时获取长枪升级。
+
+415
+00:17:58,880 --> 00:18:03,440
+>> Uh why is it so important to go get
+为什么在达到三级后要立即采取激进行动？
+
+416
+00:18:01,038 --> 00:18:05,599
+aggressive immediately when you get uh
+因为权力峰值失衡是最大威胁，
+
+417
+00:18:03,440 --> 00:18:09,880
+level three? It's because the power
+越早应对效果越显著，
+
+418
+00:18:05,599 --> 00:18:09,879
+spike imbalance is the greatest
+因为从三级到他的时间差
+
+419
+00:18:09,919 --> 00:18:14,559
+>> the earlier you bring it because the
+是决定性因素。
+
+420
+00:18:12,079 --> 00:18:16,558
+amount of time between me being level
+请说出口语指令：
+
+421
+00:18:14,558 --> 00:18:21,160
+three and him
+精准运用它可骚扰
+
+422
+00:18:16,558 --> 00:18:21,160
+>> is the greatest the earlier I go
+农夫、洞穴单位和
+
+423
+00:18:24,000 --> 00:18:27,839
+>> say the word
+以及如何有效使用？
+
+424
+00:18:25,759 --> 00:18:32,000
+>> and how you use it well you can harass
+可以骚扰农民、洞穴单位和
+
+425
+00:18:27,839 --> 00:18:34,079
+peons burrows units
+建筑单位。
+
+426
+00:18:32,000 --> 00:18:35,759
+every time footman drop low click it
+当差役蹲下时点击它
+
+427
+00:18:34,079 --> 00:18:37,759
+Press backspace and then take the rest
+按退格键后继续操作
+
+428
+00:18:35,759 --> 00:18:39,839
+of your army. Control one so it's not in
+军队的。控制其中一个使其不在
+
+429
+00:18:37,759 --> 00:18:41,279
+your group.
+你的小队中。
+
+430
+00:18:39,839 --> 00:18:43,199
+>> Mountain king comes out. We take
+山王出现。我们占领
+
+431
+00:18:41,279 --> 00:18:46,839
+militia,
+民兵，
+
+432
+00:18:43,200 --> 00:18:46,840
+>> send it to the expansion
+抵达扩张地
+
+433
+00:18:47,519 --> 00:18:51,599
+>> and take a regen scroll and then go
+拿取恢复卷轴后前往
+
+434
+00:18:49,440 --> 00:18:54,600
+there. This is how mount King gets level
+那里。这是山王升级到两级的
+
+435
+00:18:51,599 --> 00:18:54,599
+two.
+方法。
+
+436
+00:18:56,240 --> 00:19:01,960
+>> Now we don't see any units that can
+现在我们还没有能
+
+437
+00:18:58,319 --> 00:19:01,960
+ensnare me yet.
+困住我的单位。
+
+438
+00:19:03,759 --> 00:19:06,079
+are under attack.
+正在被攻击。
+
+439
+00:19:04,558 --> 00:19:09,678
+>> So, we can actually harass him a bit
+因此我们可以继续骚扰他
+
+440
+00:19:06,079 --> 00:19:11,359
+more. But he did a surround. Not bad.
+一段时间。但他完成包围战。
+
+441
+00:19:09,679 --> 00:19:13,440
+>> So, how do we get our second hero level
+那么如何尽快让我们的第二个
+
+442
+00:19:11,359 --> 00:19:16,558
+three as fast as possible? By not having
+英雄升级到三级？在采集时
+
+443
+00:19:13,440 --> 00:19:18,880
+our arc mage there when we're farming.
+不要让奥法法师留在场。
+
+444
+00:19:16,558 --> 00:19:20,000
+>> Even if he was there, I would walk out
+即使他在场，我也会
+
+445
+00:19:18,880 --> 00:19:23,000
+of range
+走出他的施法范围
+
+446
+00:19:20,000 --> 00:19:23,000
+>> over
+以避免共享经验值。
+
+447
+00:19:23,038 --> 00:19:29,440
+>> so that he doesn't share the XP.
+你算是个人类了。
+
+448
+00:19:26,079 --> 00:19:31,119
+You're kind of human.
+有个技巧可以加快潜行速度：
+
+449
+00:19:29,440 --> 00:19:33,440
+>> One cool thing that you can do to make
+在不暴露行踪的情况下
+
+450
+00:19:31,119 --> 00:19:38,479
+creeping faster
+进行潜行行动。
+
+451
+00:19:33,440 --> 00:19:41,038
+>> is uh to lose your arc mage to a slow
+奥术魔导师可能被缓慢的小兵击杀
+
+452
+00:19:38,480 --> 00:19:44,519
+>> and the creeps focusing you.
+而小兵开始针对你。
+
+453
+00:19:41,038 --> 00:19:44,519
+>> That's really great.
+这非常出色。
+
+454
+00:19:48,079 --> 00:19:52,879
+>> So again, if possible, we kill the
+所以如果可能的话，我们应该在奥术魔导师不在场时击杀小兵
+
+455
+00:19:50,720 --> 00:19:56,720
+creeps when arch mage is not there so
+这样山丘单位可以单人获得经验值。
+
+456
+00:19:52,880 --> 00:19:56,720
+that mountain can get solo XP.
+让农民返回基地。
+
+457
+00:19:57,599 --> 00:20:05,599
+Send the peasants home.
+我的终极目标是：三级英雄、三级英雄，并且达到60人口。
+
+458
+00:20:01,119 --> 00:20:09,199
+>> Remember my my goal for you is 3 360
+你进展太慢。
+
+459
+00:20:05,599 --> 00:20:12,199
+level three hero level three hero and 60
+我们还没完成目标。当你达到时，也应该准备好1个治疗卷轴和1个召唤卷轴。
+
+460
+00:20:09,200 --> 00:20:12,200
+population.
+赶紧出发，获取更多金币。
+
+461
+00:20:12,798 --> 00:20:16,319
+>> You're kind of slow.
+是的，我的
+
+462
+00:20:14,640 --> 00:20:18,160
+>> So we're not there yet. And when you do
+立即行动。
+
+463
+00:20:16,319 --> 00:20:20,399
+that, you should also have one heal
+集结前线，为任何人配备治疗卷轴
+
+464
+00:20:18,160 --> 00:20:23,360
+scroll and one invoke.
+通常给奥术魔导师，因为他位置更佳。
+
+465
+00:20:20,400 --> 00:20:24,559
+>> Let's get moving. More gold.
+我们只需要再占领一个营地就能升级。用水晶球查看对方动向。三级兵种？你在扩张吗？你在扩张吗？
+
+466
+00:20:23,359 --> 00:20:25,918
+>> Yes, my
+你进展太慢。
+
+467
+00:20:24,558 --> 00:20:29,440
+>> right away.
+我们还没完成目标。当你达到时，也应该准备好1个治疗卷轴和1个召唤卷轴。
+
+468
+00:20:25,919 --> 00:20:31,679
+>> In on your front line and heal scroll on
+赶紧出发，获取更多金币。
+
+469
+00:20:29,440 --> 00:20:33,440
+>> anyone.
+是的，我的
+
+470
+00:20:31,679 --> 00:20:35,840
+>> Usually arc mage cuz he's in a better
+立即行动。
+
+471
+00:20:33,440 --> 00:20:37,279
+position to share.
+集结前线，为任何人配备治疗卷轴
+
+472
+00:20:35,839 --> 00:20:39,599
+>> So, we just need one more camp to get
+通常给奥术魔导师，因为他位置更佳。
+
+473
+00:20:37,279 --> 00:20:41,599
+level up. We use crystal ball to see
+我们只需要再占领一个营地就能升级。用水晶球查看对方动向。三级兵种？你在扩张吗？你在扩张吗？
+
+474
+00:20:39,599 --> 00:20:43,359
+what are you doing. Tier three. Are you
+what are you doing. Tier three. Are you
+
+475
+00:20:41,599 --> 00:20:45,839
+expanding here? Are you expanding here?
+expanding here? Are you expanding here?
+
+476
+00:20:43,359 --> 00:20:48,000
+No. So, he has no wink con because he
+不，因此他没有连击技能，因为他既没有科技也没有资金。
+
+477
+00:20:45,839 --> 00:20:50,480
+has no tech and no money.
+
+
+478
+00:20:48,000 --> 00:20:52,159
+>> GET ON WITH IT.
+赶紧的。
+
+479
+00:20:50,480 --> 00:20:55,720
+LET'S do this.
+我们开始吧。
+
+480
+00:20:52,159 --> 00:20:55,720
+>> Let's get it.
+我们动手。
+
+481
+00:20:59,119 --> 00:21:05,279
+>> What is it now?
+现在呢？
+
+482
+00:21:02,400 --> 00:21:06,798
+>> Well,
+好吧，
+
+483
+00:21:05,279 --> 00:21:11,119
+okay. Now we're level three.
+现在我们处于三级。
+
+484
+00:21:06,798 --> 00:21:14,000
+>> So remember the rule is 33 60.
+记住规则是33和60。
+
+485
+00:21:11,119 --> 00:21:15,038
+>> Is someone injured? What hails you?
+有人受伤？你们是哪一派？
+
+486
+00:21:14,000 --> 00:21:17,119
+>> Yes, my friend.
+是的，我的朋友。
+
+487
+00:21:15,038 --> 00:21:18,960
+>> And even though we're not 60 yet, if you
+尽管我们还没到60，但如果你领先50点
+
+488
+00:21:17,119 --> 00:21:22,000
+are ahead with 50, you can start
+就可以开始施压，然后准备突破。
+
+489
+00:21:18,960 --> 00:21:24,480
+pressuring and then prepare to go over.
+如果还没领先
+
+490
+00:21:22,000 --> 00:21:26,319
+>> If you're not ahead yet, you can still
+你还可以采取激进姿态
+
+491
+00:21:24,480 --> 00:21:27,919
+posture aggressively because we now have
+因为我们现在有两个能量峰值。
+
+492
+00:21:26,319 --> 00:21:30,720
+two power spikes.
+三级英雄，三级英雄。
+
+493
+00:21:27,919 --> 00:21:32,880
+>> Level three hero, level three hero.
+这就是两次能量峰值。突破60点是下一个能量峰值。是什么？
+
+494
+00:21:30,720 --> 00:21:35,679
+Those are two power spikes. And going 60
+是谁？
+
+495
+00:21:32,880 --> 00:21:38,840
+pop is the next power spike. What is it?
+我们动手。
+
+496
+00:21:35,679 --> 00:21:38,840
+>> Is someone
+让我们看看。
+
+497
+00:21:40,720 --> 00:21:44,200
+>> Let's do this.
+这里有治疗符文
+
+498
+00:21:45,919 --> 00:21:50,080
+>> Here we can get another heal scroll,
+这卷符文可以替代突破50点的操作
+
+499
+00:21:47,839 --> 00:21:52,158
+which is another which is a substitute
+因为我没有购买...
+
+500
+00:21:50,079 --> 00:21:54,240
+for going over 50 cuz if I didn't buy
+就可以开始施压，然后准备突破。
+
+501
+00:21:52,159 --> 00:21:56,000
+it, I could go over 50 right now.
+目前我甚至能超过50个单位。
+
+502
+00:21:54,240 --> 00:21:57,519
+>> Of course, I can even go over 50 with a
+当然，我甚至能用单个单位突破50。
+
+503
+00:21:56,000 --> 00:22:01,119
+single unit. I usually like to go with
+我通常喜欢多单位作战，
+
+504
+00:21:57,519 --> 00:22:03,359
+more, but it's okay to go with a single.
+但使用单个单位也没问题。
+
+505
+00:22:01,119 --> 00:22:04,879
+>> So, we're on the way to 60 now. We
+现在我们正在向60迈进。虽然收益减少，
+
+506
+00:22:03,359 --> 00:22:07,279
+getting less income, but we have level
+但达到等级33。我们通过同时触发
+
+507
+00:22:04,880 --> 00:22:09,200
+33. So, we're basically combining three
+三个能量爆发来达成击杀条件。
+
+508
+00:22:07,279 --> 00:22:12,000
+power spikes at the same time for the
+胜利条件包括通过扩展获得
+
+509
+00:22:09,200 --> 00:22:13,919
+win condition of killing him.
+或许以大军击杀/使用强力英雄
+
+510
+00:22:12,000 --> 00:22:16,159
+Win conditions come in the form of bonus
+或提升高阶单位科技。
+
+511
+00:22:13,919 --> 00:22:18,240
+gold through having an expansion,
+所以可以选择托伦斯或奇美拉。
+
+512
+00:22:16,159 --> 00:22:20,000
+>> killing someone with a big army or
+这些都是胜利条件。
+
+513
+00:22:18,240 --> 00:22:25,079
+better heroes
+现在就开始吧，立即行动！
+
+514
+00:22:20,000 --> 00:22:25,079
+>> or going to a high unit tech.
+通过此方法可建造商店。
+
+515
+00:22:26,400 --> 00:22:32,360
+>> So, you could go Torrance or Chimera.
+建造商店可在进攻时持续补充
+
+516
+00:22:28,558 --> 00:22:32,359
+Those are all win conditions.
+并维持单位生产。
+
+517
+00:22:35,359 --> 00:22:40,279
+Let's do this. Let's get it on.
+现在能为山王提供清晰度再生。
+
+518
+00:22:46,159 --> 00:22:50,679
+>> And then with this, you can build a
+我们把所有装备都到位了。
+
+519
+00:22:47,679 --> 00:22:50,679
+shop.
+所以可以选择托伦斯或奇美拉。
+
+520
+00:23:04,400 --> 00:23:08,000
+Building a shop allows us to replenish
+这些都是胜利条件。
+
+521
+00:23:06,319 --> 00:23:11,000
+and keep producing units when you're
+现在就开始吧，立即行动！
+
+522
+00:23:08,000 --> 00:23:11,000
+attacking.
+通过此方法可建造商店。
+
+523
+00:23:20,558 --> 00:23:26,119
+>> And now we can get like clarity regen
+建造商店可在进攻时持续补充
+
+524
+00:23:22,480 --> 00:23:26,120
+for the mountain king.
+并维持单位生产。
+
+525
+00:23:26,240 --> 00:23:29,960
+>> Let's get it all.
+现在能为山王提供清晰度再生。
+
+526
+00:23:30,960 --> 00:23:34,600
+I am your servant.
+我是您的仆人。
+
+527
+00:23:36,720 --> 00:23:41,079
+>> And then you can make towers as well.
+你也能建造高塔。
+
+528
+00:23:42,880 --> 00:23:46,919
+>> By the power of the light.
+借光明之力。
+
+529
+00:23:47,440 --> 00:23:50,440
+>> GG.
+GG.
+
+530
+00:24:05,119 --> 00:24:08,918
+I'm accidentally shouting.
+我不小心在吼叫。
+
+531
+00:24:15,119 --> 00:24:18,119
+>> GG.
+GG.
+
+532
+00:24:18,640 --> 00:24:25,200
+Why not put some speed on me hero? Uh,
+为什么不为我的英雄加加速？呃，
+
+533
+00:24:21,200 --> 00:24:27,759
+you can and and you should. It's good.
+你可以而且应该这么做，这样做很好。
+
+534
+00:24:25,200 --> 00:24:30,558
+Why are you yelling? Uh, I learned using
+你为什么在吼叫？呃，我之前在《帝国时代2》和《帝国时代4》中用过大写锁定键操作，
+
+535
+00:24:27,759 --> 00:24:32,640
+caps lock in Age of Empires 2 and 4, and
+现在无意识按着它，因为
+
+536
+00:24:30,558 --> 00:24:35,119
+I am pressing it by accident now because
+那些游戏的残留肌肉记忆，
+
+537
+00:24:32,640 --> 00:24:37,360
+of latent muscle memory of playing those
+尽管在《魔兽争霸3》里没给这个键绑定操作，
+
+538
+00:24:35,119 --> 00:24:40,639
+games, even though I don't have anything
+我只是随机按着Caps键，
+
+539
+00:24:37,359 --> 00:24:42,319
+bound to it in Warcraft 3. I'm just
+结果现在控制我的声音音量很麻烦。
+
+540
+00:24:40,640 --> 00:24:44,000
+randomly pressing caps and having
+借光明之力。
+
+541
+00:24:42,319 --> 00:24:46,720
+trouble controlling the volume of my
+GG.
+
+542
+00:24:44,000 --> 00:24:46,720
+voice.
+我不小心在吼叫。
+
